@@ -10,8 +10,10 @@ $\textbf{Novelty:}$ Here, we tried to modify the classical MONOD kinetics for bi
 $\textbf{Model Equations:}$ Here, two governing Ordinary Differential Equations have been presented.  
 
 $$
-\frac{dS}{dt} = -\frac{1}{Y} \cdot \frac{\mu(t) S}{K_s + S} \cdot X  \\
+\frac{dS}{dt} = -\frac{1}{Y} \cdot \frac{\mu(t) S}{K_s + S} \cdot X
+$$
 
+$$
 \frac{dX}{dt} = \frac{\mu(t) S}{K_s + S} \cdot X
 $$
 
