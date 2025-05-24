@@ -25,4 +25,12 @@ Where:
 - `K_s` is the Monod constant.
 
 $\textbf{PINN Architecture:}$ 
+- 4 hidden layers.
+- 64 neurons
+- Activation function is tanh.
+
+$\textbf{Validation}$: MSE has been calculated for all three variables $S(t)$, $X(t)$, $\mu(t)$ respectively with smaller values which supports the model validity.  
+S(t): 0.9945  
+X(t): 0.0105  
+μ(t): 0.0092 
 
