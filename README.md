@@ -5,7 +5,7 @@ $\textbf{Project Title:}$ "Integrating Dynamic Modeling with Physics Informed Ne
 
 $\textbf{Background:}$ Biomass formation and its proper management is critical for the output of the waste water treatment plant. The right biomass concentration is the key as excess concentration can lead to generate more waste and thereby increasing the pollution as well as opearational cost of the plant.  
 
-$\textbf{Novelty:}$
+$\textbf{Novelty:}$ Here, we tried to modify the classical MONOD kinetics for biomass concentration by introducing $\mu(t)$. Then we have applied Physics Informed Neural network (PINN) algorithm to estimate the biomass concentration at any point of time. This algorithm is efficient in capturing solution even with small amount of data.
 
 $$
 \frac{dS}{dt} = -\frac{1}{Y} \cdot \frac{\mu(t) S}{K_s + S} \cdot X
