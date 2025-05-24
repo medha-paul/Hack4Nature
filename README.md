@@ -7,16 +7,13 @@ $\textbf{Background:}$ Biomass formation and its proper management is critical f
 
 $\textbf{Novelty:}$ Here, we tried to modify the classical MONOD kinetics for biomass concentration by introducing $\mu(t)$. Then we have applied Physics Informed Neural network (PINN) algorithm to estimate the biomass concentration at any point of time. This algorithm is efficient in capturing solution even with small amount of data.  
 
-$\textbf{Model Equations:}$ Here, two governing Ordinary Differential Equations has been presented below.
-
-$$
+$\textbf{Model Equations:}$ Here, t\[
 \frac{dS}{dt} = -\frac{1}{Y} \cdot \frac{\mu(t) S}{K_s + S} \cdot X
-$$
+\]
 
-$$
+\[
 \frac{dX}{dt} = \frac{\mu(t) S}{K_s + S} \cdot X
-$$  
-
+\]
 Where:
 - `S(t)` is the substrate concentration,  
 - `X(t)` is the biomass concentration,  
