@@ -8,4 +8,10 @@ $$
 
 $$
 \frac{dX}{dt} = \frac{\mu(t) S}{K_s + S} \cdot X
-$$
+$$  
+Where:
+- `S(t)` is the substrate concentration,  
+- `X(t)` is the biomass concentration,  
+- `μ(t)` is a time-varying growth rate,  
+- `Y` is the yield coefficient,  
+- `K_s` is the Monod constant.  
