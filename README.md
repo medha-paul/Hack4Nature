@@ -1,5 +1,5 @@
 # Hack4Nature
-Team name: Little Angels 
+Team name: Little Angels \\
 Project Title: "Integrating Dynamic Modeling with Physics Informed Neural Network for Biomass prediction in Waste Water Treatment Plant"
 
 $$
