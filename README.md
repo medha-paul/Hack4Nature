@@ -9,6 +9,7 @@ $$
 $$
 \frac{dX}{dt} = \frac{\mu(t) S}{K_s + S} \cdot X
 $$  
+
 Where:
 - `S(t)` is the substrate concentration,  
 - `X(t)` is the biomass concentration,  
