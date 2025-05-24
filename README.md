@@ -1,7 +1,10 @@
 # Hack4Nature
 $\textbf{Team name:}$ Little Angels  
-$\textbf{Project Title:} "Integrating Dynamic Modeling with Physics Informed Neural Network for Biomass prediction in Waste Water Treatment Plant"  
-$\textbf{Background:} Biomass formation and its proper management is critical for the output of the waste water treatment plant. The right biomass concentration is the key as excess concentration can lead to generate more waste and thereby increasing the pollution as well as opearational cost of the plant.  
+
+$\textbf{Project Title:}$ "Integrating Dynamic Modeling with Physics Informed Neural Network for Biomass prediction in Waste Water Treatment Plant"  
+
+$\textbf{Background:}$ Biomass formation and its proper management is critical for the output of the waste water treatment plant. The right biomass concentration is the key as excess concentration can lead to generate more waste and thereby increasing the pollution as well as opearational cost of the plant.  
+
 $\textbf{Novelty:}$
 
 $$
